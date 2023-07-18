@@ -14,7 +14,7 @@
 
 <br>
 
-It's requires: **Go 1.20**
+It requires: **Go 1.20**
 
 
 <br>
