@@ -1,4 +1,8 @@
 # Log-watcher 
+
+![go](https://img.shields.io/static/v1?label=Golang+1.20&labelColor=34a1eb&message=Go&color=000000&logo=go&logoColor=ffffff&style=flat-square) 
+![go](https://img.shields.io/static/v1?label=Channels&labelColor=34a1eb&message=Go&color=000000&logo=go&logoColor=ffffff&style=flat-square)
+
 <p align="center">
 <img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/7e2140c3dbcd227ed71182dfbf5ea6ccca920969.png" height="300">
 </p>
