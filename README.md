@@ -44,11 +44,11 @@ After run the command:
 In development mode, on the log-watcher dir: 
 
 ~~~bash
-  go run ./cmd {filename}
+  go run ./cmd {filepath}
 ~~~
 <br>
 After compile, on the application dir:
 
 ~~~bash
-   ./log-watcher {filename}
+   ./log-watcher {filepath}
 ~~~
